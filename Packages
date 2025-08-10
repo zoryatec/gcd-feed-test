@@ -2,15 +2,15 @@
 CompatibilityVersion: 250500
 Depends: 
 Description: unset-description
-Filename: 026c5bf3-8731-4936-a17f-3ea55b53e8fe_99.88.77.66_windows_x64.nipkg
+Filename: 2906ff73-413b-4b46-b9e4-cbee02ce82e2_99.88.77.66_windows_x64.nipkg
 Homepage: unset-home-page
-MD5sum: 99fad3f6525bc83fd73c34b764d361df
+MD5sum: c6d6b211aa90910ce5d536520839775d
 Maintainer: unset-maintainer
-Package: 026c5bf3-8731-4936-a17f-3ea55b53e8fe
+Package: 2906ff73-413b-4b46-b9e4-cbee02ce82e2
 Plugin: file
-SHA256: 1f2489e10083d2516368c1bb8c15a15df0519226d1c5f3363f24b5adb3f35b8f
+SHA256: 68fda5735d440a765d2e20b3361532807cdd913a16c8b4f7e406d6e97114d8fd
 Section: unset-section
-Size: 1052
+Size: 1050
 StoreProduct: yes
 UserVisible: yes
 Version: 99.88.77.66
