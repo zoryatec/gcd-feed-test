@@ -2,11 +2,11 @@ Architecture: windows_x64
 CompatibilityVersion: 200003
 Depends: 
 Description: unset-description
-Filename: https://github.com/zoryatec/gcd-feed-test/releases/download/99.88.77.66/032cc88c-b24e-4e64-9e53-ad0b16b9c11c_99.88.77.66_windows_x64.nipkg
+Filename: https://github.com/zoryatec/gcd-feed-test/releases/download/99.88.77.66/036a2c82-2683-4436-a7a0-cfbcd69e0c83_99.88.77.66_windows_x64.nipkg
 Homepage: unset-home-page
-MD5sum: 0f3a98d5196e3b94cc27a65775b2ebc3
+MD5sum: f5eb4ba1cf346a3f0debceddabdd1237
 Maintainer: unset-maintainer
-Package: 032cc88c-b24e-4e64-9e53-ad0b16b9c11c
+Package: 036a2c82-2683-4436-a7a0-cfbcd69e0c83
 Plugin: file
 Section: unset-section
 Size: 728
